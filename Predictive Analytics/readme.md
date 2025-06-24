@@ -102,16 +102,3 @@ The forecasting aims to assist the sales analyst in projecting demand for the co
 
 ---
 
-## 🚀 Future Improvements
-
-- Integrate promotional campaigns or pricing to build multivariate models
-- Export data to Python or R for ARIMA or machine learning-based forecasting
-- Develop dashboards using Excel PivotCharts or Power BI
-
----
-
-## 📜 License
-
-This repository is open for educational and demonstration purposes.
-
----
