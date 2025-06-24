@@ -22,9 +22,7 @@ By modeling two different approaches—Model A and Model B—you gain deeper ins
 ### ✅ Model A: EOQ-Based Inventory Planning
 
 - Calculates **EOQ** using:
-  \[
-  EOQ = \sqrt{\frac{2DS}{H}}
-  \]
+ EOQ = √[ (2 × D × S) / H ]
   Where:  
   - *D* = Annual demand  
   - *S* = Ordering cost per order  
@@ -64,9 +62,7 @@ By modeling two different approaches—Model A and Model B—you gain deeper ins
 ## 📘 EPQ Model (Optional Add-on)
 
 - Calculates optimal **production lot size** using:
-  \[
-  EPQ = \sqrt{\frac{2DS}{H\left(1 - \frac{d}{p}\right)}}
-  \]
+  `EPQ = SQRT((2 * D * S) / (H * (1 - d/p)))`
   Where:
   - *d* = Demand rate
   - *p* = Production rate
