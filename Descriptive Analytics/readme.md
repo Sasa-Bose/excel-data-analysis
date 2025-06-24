@@ -19,7 +19,7 @@
 
 Each CNC line consists of **3 machines in series**, with individual reject rates. These rejection rates are critical in determining how much raw material is needed to produce the final output.
 
-![Machine Flow with Reject Rates](../assets/Machine lines with reject rates.png)
+![Machine Flow with Reject Rates](Machine lines with reject rates.png)
 
 > **r** = reject rate per machine (in red).  
 > Final effective yield per line = Product of yields from all 3 machines.  
