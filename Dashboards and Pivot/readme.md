@@ -27,8 +27,8 @@ Each `.xlsx` file demonstrates one or more of the following:
 
 Visual examples from the Excel workbooks are included in this folder for preview:
 
-- `charts_overview.png` – Example of chart types used
-- `pivot_demo.png` – Screenshot of pivot table in action
+- `Dashboard_1.png` 
+- `Dashboard_2.png` 
 
 These provide a quick look at the formatting and presentation techniques used inside the workbooks.
 
