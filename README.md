@@ -32,7 +32,7 @@ Each folder demonstrates a distinct type of analysis or Excel capability—from 
 
 **Use Case:** Assists sales analysts in forecasting future demand based on trends, seasonal patterns, and historical performance.
 
-📎 [See Folder: `Predictive Analytics in Excel`](./Predictive%20Analytics%20in%20Excel)
+📎 [See Folder: `Predictive Analytics in Excel`](./Predictive%20Analytics)
 
 ---
 
@@ -46,7 +46,7 @@ Each folder demonstrates a distinct type of analysis or Excel capability—from 
 
 **Use Case:** Supports supply chain and operations teams in selecting optimal ordering strategies under varying cost structures and constraints.
 
-📎 [See Folder: `Prescriptive Analytics in Excel`](./Prescriptive%20Analytics%20in%20Excel)
+📎 [See Folder: `Prescriptive Analytics in Excel`](./Prescriptive%20Analytics)
 
 ---
 
@@ -60,7 +60,7 @@ Each folder demonstrates a distinct type of analysis or Excel capability—from 
 
 **Use Case:** Showcases data storytelling and reporting techniques using Excel’s native visualization tools.
 
-📎 [See Folder: `Excel Visualization and Pivot Table Demonstrations`](./Excel%20Visualization%20and%20Pivot%20Table%20Demonstrations)
+📎 [See Folder: `Excel Visualization and Pivot Table Demonstrations`](./Dashboards%20and%20Pivot)
 
 ---
 
