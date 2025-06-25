@@ -18,7 +18,7 @@ Each folder demonstrates a distinct type of analysis or Excel capability—from 
 
 **Use Case:** Helps manufacturing managers estimate expected output ranges and material needs based on machine reject rates and production variation.
 
-📎 [See Folder: `Descriptive Analytics – CS1`](./Descriptive%20Analytics%20–%20CS1)
+📎 [See Folder: `Descriptive Analytics – CS1`](./Descriptive Analytics)
 
 ---
 
